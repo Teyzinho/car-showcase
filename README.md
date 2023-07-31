@@ -24,3 +24,5 @@ Fetching de Api feito em server-side
 <div>
   <img src="https://rapidapi.com/static-assets/default/favicon-8e7d522e-653f-4edd-ac27-3f6ed950e45d.png" width="25px"> rapidApi: Api utilizada para dar fetching nos carros
  </div>
+
+Projeto feito com aulas de JSmastery
