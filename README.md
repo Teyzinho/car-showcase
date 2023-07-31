@@ -1,34 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Carhub
 
-## Getting Started
+Carhub é um site de aluguel de carros
 
-First, run the development server:
+## Funcionalidades
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Pesquisar carros de acordo com marca, ano, combustível e modelo.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abrir modais que mostram descrições dos carros.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Fetching de Api feito em server-side
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tecnologias Utilizadas
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="25px">React: Biblioteca front-end JavaScript
 
-## Learn More
+<img  src="https://github.com/Teyzinho/SimioSocial/assets/103509649/53c41250-f395-4dc6-9e76-da5b6bddb3bb" width="25px">Next.js: Um framework React para desenvolvimento de aplicações web do lado do cliente e do servidor.
 
-To learn more about Next.js, take a look at the following resources:
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="25px"> TypeScript: linguagem de Programação
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<img  src="https://seeklogo.com/images/H/headless-ui-logo-034B045C5C-seeklogo.com.png" width="25px"> HeadlessUi : Para estilização
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<img  src="https://viget.imgix.net/tailwind-on-gray.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&ixlib=php-3.3.1&q=90&w=1200&s=3b364fd07ccd56661ac684a4aca524f8" width="25px"> TailWind: Uma framework para estilização.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<div>
+  <img src="https://rapidapi.com/static-assets/default/favicon-8e7d522e-653f-4edd-ac27-3f6ed950e45d.png" width="25px"> rapidApi: Api utilizada para dar fetching nos carros
+ </div>
